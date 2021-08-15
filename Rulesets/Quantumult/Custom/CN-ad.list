@@ -140,7 +140,7 @@ host-suffix,3600.com,reject
 host-suffix,adapi.shouji.360.cn,reject
 host-suffix,dev.tg.wan.360.cn,reject
 host-suffix,huodong.ios.shouji.360.cn,reject
-host-suffix,kuaikan.net,rejectmon.360safe.com,reject
+host-suffix,kuaikan.netmon.360safe.com,reject
 host-suffix,leak.360.cn,reject
 host-suffix,openbox.mobilem.360.cn,reject
 host-suffix,pub.se.360.cn,reject
