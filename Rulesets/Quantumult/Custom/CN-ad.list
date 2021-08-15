@@ -99,7 +99,7 @@ host-suffix,beacon.sina.com.cn,reject
 host-suffix,dcads.sina.com.cn,reject
 host-suffix,dp.im.weibo.cn,reject
 host-suffix,imrworldwide.com,reject
-host-suffix,log.weico.cc
+host-suffix,log.weico.cc,reject
 host-suffix,miaozhen.com,reject
 host-suffix,sax.sina.cn,reject
 host-suffix,sax.sina.com.cn,reject
